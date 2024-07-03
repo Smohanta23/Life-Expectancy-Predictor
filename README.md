@@ -51,7 +51,7 @@ The trained life expectancy model is integrated into a real-time video processin
    pandas==1.3.3
    joblib==1.0.1
    numpy==1.21.2
-3. **pip install -r requirements.txt**
+3. **Install the "requirements.txt" file**
 4. **Run the Application**:
    ```sh
    python main.py
